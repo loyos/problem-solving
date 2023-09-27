@@ -11,6 +11,7 @@ The exercises here are not fully optimize, try to make them better.
 - npm install
 - npm test
 
+Each folder corresponds to a pattern, for testing we're using jest. Every pattern has one test file.
 
 Feel free to add problems to this repository, remember to include tests 
 
